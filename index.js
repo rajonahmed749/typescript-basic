@@ -1,2 +1,2 @@
-var myName = "Rajon Ahmed";
-console.log(myName);
+"use strict";
+var person = "Rajon Ahmed";
